@@ -18,13 +18,15 @@ body
 {
 	float:right;
 	margin-top:0%;
-	width:180px;
+	width:850px;
 	color:#FFFFFF;
 	display:inline-block;
 }
 
 #TitleAH1
 {
+    text-decoration:none;
+    font-size:20px;
 	margin-top:0%;
 	width:180px;
 	color:#FFFFFF;
@@ -33,8 +35,16 @@ body
 
 #TitleText
 {
-	margin-top:0%;
-	width:180px;
+	width:250px;
 	color:#FFFFFF;
 	display:inline-block;
+}
+
+#TitleHead
+{
+    font-family:DFKai-sb;
+    font-size:30px;
+	margin-top:0%;
+	color:#FFFFFF;
+    text-align:center;
 }
