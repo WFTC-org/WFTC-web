@@ -1,18 +1,33 @@
+@media screen and (max-width: 900px){
+	.img-shigoto_zaitaku_cat_woman-png{
+		width:100px;
+		height:100px;
+	}
+	.text-p{
+		padding-top:35%;
+	}
+	.container {
+		padding-top:70%;
+		padding-left:35%;
+	}
+}
 
 body {
     background: #ffff00; 
 }
 
-.text-h{
-    text-align:center;
-    color: #FF0000;
+.img-shigoto_zaitaku_cat_woman-png{
+	width:500px;
+	height:500px;
 }
+
 .text-p{
+	font-size: 30px;
     color: #3C3C3C;
     text-align:center;
-    left: 25%;
     margin: auto -50px;
     position: absolute;
+	padding-left:35%;
     top: 70%;
 }
 
