@@ -1,0 +1,22 @@
+.hand-text{
+	text-align:center;
+	color:#FFFFFF;
+	margin: 0px;
+	font-size:350%;
+	padding-top:30px;
+}
+
+.link{
+	padding-right:30px;
+	font-size:250%;
+	margin:0px;
+}
+
+@media screen and (max-width: 900px){
+	.hand-text{
+		font-size:150%;
+	}
+	.link{
+		font-size:100%;
+	}
+}

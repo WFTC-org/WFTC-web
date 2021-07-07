@@ -1,0 +1,54 @@
+.img-1-png{
+	width:400px;
+	height:400px;
+}
+
+.img-pet_elizabeth_collar-png{
+	width:400px;
+	height:400px;
+}
+
+.img-world_children-png{
+	width:400px;
+	height:400px;
+}
+
+.text-div{
+	height: 750px;
+}
+.text-div div{
+	height: 750px;
+}
+.text-div div p{
+	color:#FFFFFF;
+	padding-top: 30%;
+	font-size:50px;
+	text-align:center;
+}
+
+@media screen and (max-width: 900px){
+	.img-1-png{
+		width:200px;
+		height:200px;
+	}
+	.img-pet_elizabeth_collar-png{
+		width:150px;
+		height:150px;
+	}
+	.img-world_children-png{
+		width:150px;
+		height:150px;
+	}
+	.text-div{
+		height: 500px;
+	}
+	.text-div div{
+		height: 500px;
+	}
+	.text-div div p{
+		color:#FFFFFF;
+		padding-top: 30%;
+		font-size:20px;
+		text-align:center;
+	}
+}
