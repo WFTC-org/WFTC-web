@@ -1,0 +1,29 @@
+body{
+	background-color:#9D9D9D;
+}
+
+.text{
+	font-size:50px;
+}
+
+@media screen and (max-width: 900px){
+	.table-name{
+		display:none;
+	}
+	.table{
+		color:#FFFFFF;
+		padding-right:5px;
+		font-size:100%;
+		margin:0px;
+	}
+	.Main-Mark{
+		font-size:100%;
+	}
+	.img_404_png{
+		width:300px;
+		height:300px;
+	}
+	.text{
+		font-size:25px;
+	}
+}
